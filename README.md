@@ -33,6 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/atdushi/atdushi/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+<img src="https://github.com/atdushi/atdushi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
