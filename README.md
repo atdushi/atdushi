@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is atdushi and  I’m currently learning big data technologies.</h2>
+<h2 align="left">Hi 👋! My interests are Big Data technologies, Blockchains and Cryptocurrencies.</h2>
 
 ###
 
