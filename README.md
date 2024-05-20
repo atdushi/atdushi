@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My interests are Big Data technologies, Blockchains and Cryptocurrencies.</h2>
+<h2 align="left">Hi 👋! My interests are big data technologies, blockchains and cryptocurrencies.</h2>
 
 ###
 
